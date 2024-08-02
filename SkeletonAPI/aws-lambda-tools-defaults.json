@@ -12,5 +12,5 @@
   "function-memory-size": 256,
   "function-timeout": 30,
   "function-handler": "SkeletonAPI",
-  "function-url-enable": false
+  "function-url-enable": true
 }
