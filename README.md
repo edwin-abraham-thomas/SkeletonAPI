@@ -1,2 +1,2 @@
-# skeleton-api
-Skeleton API project with basic CRUD operations on User entity
+# SkeletonAPI
+SkeletonAPI project with basic CRUD operations on User entity
